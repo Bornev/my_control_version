@@ -1,5 +1,8 @@
 # Подсказка по GIT
-
+Создание репозитория:
+```sh
+git init
+```
 git init
 git add
 git commit -m "Message"
