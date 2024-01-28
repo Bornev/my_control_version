@@ -7,9 +7,17 @@ git init
 ```sh
 git add <file_name>
 ```
+Создание коммита (сохранение) и указываем коментарий, который был бы понятен что изменено в текущей версии
+```sh
 git commit -m "Message"
+```
+Команда вносит в предыдущий коммит изменения, которые подготовлены к коммиту. Используется и для редактирования предыдущего commit message, если в нём допущены ошибки.
+```sh
+git commit --amend
+```
+
 git log
 git log --oneline
 git checkout
 git diff
-git commit --amend
+
