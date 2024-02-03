@@ -49,3 +49,9 @@ git diff
 ```sh
 git status
 ```
+Команда отображения всех веток
+```sh
+git branch
+```
+
+
