@@ -52,5 +52,9 @@ git status
 ```sh
 git branch
 ```
+Длч создания новой ветки используем команду
+```sh
+git branch <branch_name>
+```
 
 
