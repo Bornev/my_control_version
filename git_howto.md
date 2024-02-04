@@ -56,5 +56,8 @@ git branch
 ```sh
 git branch <branch_name>
 ```
-
+Для удаления ветки используется команда
+```sh
+git branch -d <branch_name>
+```
 
